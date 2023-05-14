@@ -27,4 +27,3 @@ ot_1684085478](https://github.com/liuyaxin99/flutter-nodejs-ecommerce-app/assets
 ![Screenshot_1684087124](https://github.com/liuyaxin99/flutter-nodejs-ecommerce-app/assets/51477400/21678fb8-53be-4e3b-8972-103b85969ac5)
 ![Screenshot_1684087140](https://github.com/liuyaxin99/flutter-nodejs-ecommerce-app/assets/51477400/d13ab9d3-a476-494c-81d7-f1d2e9287393)
 ![Screenshot_1684087144](https://github.com/liuyaxin99/flutter-nodejs-ecommerce-app/assets/51477400/a0acb159-c56d-4184-8986-4e9051b779c4)
-![Screenshot_1684087198](https://github.com/liuyaxin99/flutter-nodejs-ecommerce-app/assets/51477400/9d5dc70f-1415-4893-bc4b-b0b954e7ff0a)
