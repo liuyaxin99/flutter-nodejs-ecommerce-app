@@ -1,0 +1,36 @@
+name: dealhub
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  badges: ^3.1.1
+  carousel_slider: ^4.2.1
+  cloudinary_public: ^0.21.0
+  dotted_border: ^2.0.0+3
+  file_picker: ^5.3.0
+  fl_chart: ^0.62.0
+  flutter:
+    sdk: flutter
+  flutter_rating_bar: ^4.0.1
+  http: ^0.13.6
+  intl: ^0.18.0
+  pay: ^1.1.1
+  provider: ^6.0.5
+  shared_preferences: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/applepay.json
+    - assets/gpay.json
